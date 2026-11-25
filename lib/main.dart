@@ -134,7 +134,7 @@ class HomePage extends StatelessWidget {
           GridView.count(crossAxisCount: 3,
           shrinkWrap: true,
             children: [Image.network("https://i.pinimg.com/736x/fb/0a/6f/fb0a6f2659dd99c05c02f5199e789e7f.jpg"),
-                      Image.network("https://i.pinimg.com/originals/eb/c7/18/ebc71815ec3e51b8c9f0dc0f0e47c205.gif"),
+                      Image.network("https://i.pinimg.com/736x/5e/d4/75/5ed47575dbc6e5eccb2bd48b8d797fe5.jpg"),
                        Image.network("https://i.pinimg.com/736x/08/14/57/08145755246c37f6b2ef96e057f31573.jpg")],
 
           )
